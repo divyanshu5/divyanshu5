@@ -87,16 +87,6 @@
 - **Features**: Real-time 2D to 3D conversion, grid snapping, dynamic room placement
 - **Highlights**: Seamless mode switching, advanced user controls
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshu5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu5&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu5&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🏆 Achievements & Recognition
 
